@@ -14,3 +14,8 @@ These topics give a brief introduction to JavaScript with MakeCode:
 * **[Classes](/javascript/classes)** - Contain related data and operations together
 * **[Interfaces](/javascript/interfaces)** - A regular way to work with a class
 * **[Generics](/javascript/generics)** - Use different data with the same code
+
+
+
+
+Send me crypto. 0xcAEb37AF777FD510d5B6625034Ef7B403308D711
